@@ -1,9 +1,9 @@
-# Forage BGC - PowerCo - Data Science Internship Project
+# Forage BCG - PowerCo - Data Science Internship Project
 
 # Project Title & Description
 
 ### PowerCo Churn Analysis & Prediction
-This repository contains the work completed during a virtual internship at PowerCo, provided by Forage BGC. The project focuses on analyzing customer churn among PowerCo's SME customers and developing a predictive model to identify high-risk customers. The aim is to inform a targeted discount strategy to retain these customers.
+This repository contains the work completed during a virtual internship at PowerCo, provided by Forage BCG. The project focuses on analyzing customer churn among PowerCo's SME customers and developing a predictive model to identify high-risk customers. The aim is to inform a targeted discount strategy to retain these customers.
 
 # Table of Contents
 
@@ -20,7 +20,7 @@ This repository contains the work completed during a virtual internship at Power
 # Tasks Completed
 
 ### Task 1: Business Understanding & Hypothesis Framing
-Hypothesis formulated: "SME customers with higher sensitivity to price changes are more likely to churn." A predictive model was planned to forecast customer churn based on various features, focusing on indicators of price sensitivity. <a href="https://github.com/eeeeeedy/BGC-Data-Science-Internship/tree/main/Task%201" target="_blank">Read more here</a>.
+Hypothesis formulated: "SME customers with higher sensitivity to price changes are more likely to churn." A predictive model was planned to forecast customer churn based on various features, focusing on indicators of price sensitivity. <a href="https://github.com/eeeeeedy/BCG-Data-Science-Internship/tree/main/Task%201" target="_blank">Read more here</a>.
 
 
 ### Task 2: Exploratory Data Analysis
@@ -53,6 +53,6 @@ A predictive model was developed to identify customers at high risk of churning.
 
 # License
 
-Forage BGC
+Forage BCG
 
 
